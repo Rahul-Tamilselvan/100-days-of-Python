@@ -1,6 +1,6 @@
 # BMI calculator 2.0
 # BMI below 18.5 underweight, 18.5 - 25 normal weight, 25 - 30 overweight, 30 - 35 obese, above 35 clinically obese
-
+# This can also be changed based on changing metrics
 # BMI calculator
 height = float(input("Enter your height in m: "))
 weight = float(input("Enter your weight in kg: "))
